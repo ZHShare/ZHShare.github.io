@@ -1,0 +1,40 @@
+.container .header {
+  margin: 4px;
+}
+.container .header .headImg {
+  float: left;
+}
+.container .header .rightContainer {
+  padding-top: 10px;
+}
+.container .header .rightContainer .title {
+  margin: 1px;
+  padding-top: 5px;
+}
+.container .header .rightContainer .subTitle {
+  padding-top: 5px;
+}
+.container .intro {
+  margin: 4px;
+  padding-top: 10px;
+  width: 100%;
+}
+.container .teamIntro {
+  margin: 4px;
+  margin-top: 8px;
+}
+.container .teamIntro .title {
+  font-size: 18px;
+  margin: 2px;
+  margin-top: 10px;
+}
+.container .teamIntro .content {
+  padding-top: 4px;
+}
+.container .footer {
+  margin: 4px;
+  margin-top: 8px;
+}
+.container .footer .title {
+  margin: 2px;
+}

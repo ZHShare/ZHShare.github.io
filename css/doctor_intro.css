@@ -1,0 +1,57 @@
+.container .header {
+  margin: 4px;
+  margin-top: 10px;
+}
+.container .header .titleLabel {
+  margin-top: 30px;
+  margin-right: 2px;
+  font-size: 18px;
+}
+.container .header .headImg {
+  margin: 2px;
+  float: left;
+}
+.container .header .rightContainer {
+  margin-right: 2px;
+}
+.container .header .rightContainer .doctorName {
+  margin: 1px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.container .header .rightContainer .subLine {
+  padding-top: 10px;
+}
+.container .header .rightContainer .subLine .hospitalName {
+  float: left;
+}
+.container .specialty {
+  margin: 4px;
+  margin-top: 8px;
+}
+.container .specialty .title {
+  padding-top: 4px;
+  font-size: 18px;
+}
+.container .specialty .content {
+  padding-top: 4px;
+}
+.container .intro {
+  margin: 4px;
+  margin-top: 8px;
+}
+.container .intro .title {
+  font-size: 18px;
+  margin: 2px;
+}
+.container .intro .content {
+  padding-top: 4px;
+}
+.container .footer {
+  margin: 4px;
+  margin-top: 8px;
+}
+.container .footer .title {
+  font-size: 18px;
+  margin: 2px;
+}
