@@ -1,0 +1,26 @@
+{
+  "unitIntro.html": {
+    "href": "unitIntro.html",
+    "resources": [
+      "css/bootstrap.css",
+      "css/unitIntro.css",
+      "img/touxiang.png"
+    ],
+    "refer": [
+      "index.html"
+    ],
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/doctor_intro.css",
+      "css/bootstrap.css",
+      "img/touxiang.png"
+    ],
+    "refer": [
+      "unitIntro.html"
+    ],
+    "priority": 0
+  }
+}

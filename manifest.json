@@ -199,5 +199,72 @@
                 }
             }
         }
-    }
+    },
+	"dependencies":{
+		"pages": {
+			"unitIntro.html": {
+				"href": "unitIntro.html",
+				"resources": [
+					"css/bootstrap.css",
+					"fonts/glyphicons-halflings-regular.eot",
+					"fonts/glyphicons-halflings-regular.woff2",
+					"fonts/glyphicons-halflings-regular.woff",
+					"fonts/glyphicons-halflings-regular.ttf",
+					"fonts/glyphicons-halflings-regular.svg",
+					"css/unitIntro.css",
+					"img/touxiang.png"
+				],
+				"refer": [
+					"index.html"
+				],
+				"priority": 0
+			},
+			"index.html": {
+				"href": "index.html",
+				"resources": [
+					"css/doctor_intro.css",
+					"css/bootstrap.css",
+					"fonts/glyphicons-halflings-regular.eot",
+					"fonts/glyphicons-halflings-regular.woff2",
+					"fonts/glyphicons-halflings-regular.woff",
+					"fonts/glyphicons-halflings-regular.ttf",
+					"fonts/glyphicons-halflings-regular.svg",
+					"img/touxiang.png"
+				],
+				"refer": [
+					"unitIntro.html"
+				],
+				"priority": 0
+			}
+		},
+		"idle": {
+			"resources": [
+				"js/lib/template.js",
+				"js/lib/swiper-3.4.2.min.js",
+				"css/bootstrap-theme.min.css",
+				"css/doctor_intro.less",
+				"css/bootstrap.min.css",
+				"css/bootstrap.css.map",
+				"js/lib/html5shiv-printshiv.js",
+				"js/npm.js",
+				"js/lib/jquery-2.1.1.min.js",
+				"js/bootstrap.min.js",
+				"js/lib/AreaData.js",
+				"css/bootstrap-theme.css.map",
+				"js/lib/jquery-1.12.3.js",
+				"js/lib/jquery-3.0.0.min.js",
+				"js/lib/html_size.js",
+				"js/lib/jquery-1.12.2.js",
+				"js/lib/iscroll.js",
+				"css/bootstrap-theme.min.css.map",
+				"js/lib/fastclick.js",
+				"css/bootstrap.min.css.map",
+				"js/lib/jquery.js",
+				"js/bootstrap.js",
+				"css/bootstrap-theme.css",
+				"css/unitIntro.less",
+				"js/lib/operateTreeSelect.js"
+			]
+		}
+	}
 }
